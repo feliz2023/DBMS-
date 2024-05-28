@@ -20,8 +20,10 @@ A Login button to trigger the authentication process.
 The password Entry widget is configured to mask the password input with asterisks (*).
 
            Prerequisites
-Python 3.x
+Python 3.x   
+
 MySQL Server
+
 mysql-connector-python package (can be installed using pip install mysql-connector-python)
 
 
